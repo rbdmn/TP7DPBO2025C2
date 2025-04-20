@@ -110,7 +110,7 @@ Keterangan:
 # Alur Program
 Pertama tama kita pastikan server Apache dan MySQL menyala, lalu buka browser dan di url nya itu ditujukan ke index.php. Setelah muncul visualisasinya, di index.php (halaman utama) ada judul dan 4 menu tiap tabel. Ketika salah satu menu diklik, user akan diarahkan ke halaman yang sesuai dengan tabel database yang berkaitan dengan menu tersebut. Di tiap page terdapat tabel isi datanya dan operasi CRUD (Create Read Update Delete) terkait class/tabel pada database masing masing. Dan pada menu `movies` itu akan mengexpand dan muncul menu baru yaitu `movie_actors` dan `movie_genres`. Di page movies ini selain mengoperasikan CRUD, bisa juga melakukan searching berdasarkan judul film (title).
 
-# Rekaman
+# Rekaman Dokumentasi Alur Program
 https://github.com/user-attachments/assets/c05c5f3c-e599-4269-9731-f0b1d01a59b0
 
 
